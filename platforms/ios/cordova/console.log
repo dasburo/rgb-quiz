@@ -1,0 +1,26 @@
+2014-11-02 12:19:58.298 RGBChallenge[40132:3586184] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/9413C49A-0706-485A-BCB5-6067215539E3/Library/Cookies/Cookies.binarycookies
+2014-11-02 12:19:58.417 RGBChallenge[40132:3586184] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 12:19:58.417 RGBChallenge[40132:3586184] Multi-tasking -> Device: YES, App: YES
+2014-11-02 12:19:58.445 RGBChallenge[40132:3586184] Unlimited access to network resources
+2014-11-02 12:19:58.452 RGBChallenge[40132:3586184] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 12:20:00.574 RGBChallenge[40132:3586184] Resetting plugins due to page load.
+2014-11-02 12:20:00.736 RGBChallenge[40132:3586184] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/BF038F39-9B06-4D8C-B317-626461065E10/RGBChallenge.app/www/index.html
+2014-11-02 12:21:49.035 RGBChallenge[40374:3607718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/846E839F-C242-4DEF-9312-A6E7FAD32452/Library/Cookies/Cookies.binarycookies
+2014-11-02 12:21:49.150 RGBChallenge[40374:3607718] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 12:21:49.150 RGBChallenge[40374:3607718] Multi-tasking -> Device: YES, App: YES
+2014-11-02 12:21:49.158 RGBChallenge[40374:3607718] Unlimited access to network resources
+2014-11-02 12:21:49.161 RGBChallenge[40374:3607718] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 12:21:49.504 RGBChallenge[40374:3607718] Resetting plugins due to page load.
+2014-11-02 12:21:49.589 RGBChallenge[40374:3607718] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/A5639DE5-561C-4A11-8F9E-3306A8D1C65A/RGBChallenge.app/www/index.html
