@@ -5,14 +5,12 @@ window.onload = function() {
 var app = {
   // Application Constructor
   initialize: function() {
-    // if (typeof StatusBar !== 'undefined')
-    //   StatusBar.hide();
     this.bindEvents();
 
     // create paper
     var colorHeight = $(window).height() - $('#colors').height() - $('#bottom-bar').height();
     $('#color-buttons').height(colorHeight);
-    this.paper = Raphael("color-buttons", $('#color-buttons').width(), colorHeight);
+    this.paper = Raphael('color-buttons', $('#color-buttons').width(), colorHeight);
 
     this.newRound();
   },
@@ -52,8 +50,7 @@ var app = {
     var colorsArr = [];
 
     for (var i = 0; i < this.numberOfCircles; i++) {
-      var randoHex = '#000000'.replace(/0/g,function(){return (~~(Math.random()*16)).toString(16)});
-      colorsArr.push(randoHex);
+      colorsArr.push(this.randomHexColor());
     }
 
     this.currentColor = {
@@ -70,7 +67,7 @@ var app = {
   // colorsArr: array of hex color strings (should be 4)
   createCircles: function(colorsArr) {
     this.circles = [];
-    var innerBoxRatio = (100 - 80/3) / 100; // 73.333%
+    var innerBoxRatio = (100 - 40/3) / 100; // 86.666%
 
     // calculate size of box to draw circles inside
     var smallerSize = (this.paper.width > this.paper.height) ? this.paper.height : this.paper.width;
@@ -116,10 +113,10 @@ var app = {
         var fillHex = evt.target.getAttribute('fill');
         console.log(fillHex);
         if (fillHex === _this.currentColor.hex) {
-          alert('correct');
+          navigator.notification ? navigator.notification.alert('Nice work.', function(){}, 'Correct!') : alert('correct');
           _this.newRound();
         } else {
-          alert('incorrect');
+          navigator.notification ? navigator.notification.alert('Try again.', function(){}, 'Incorrect') : alert('incorrect');
         }
       })
       this.circles.push(circle);
@@ -151,8 +148,12 @@ var app = {
     return rgb;
   },
 
+  randomHexColor: function() {
+    return '#000000'.replace(/0/g,function(){return (~~(Math.random()*16)).toString(16)});
+  },
+
   rgbToHex: function(r, g, b) {
-    return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+    return '#' + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
   },
 
   hexToRgb: function(hex) {

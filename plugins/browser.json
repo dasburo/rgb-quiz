@@ -23,6 +23,9 @@
         },
         "org.apache.cordova.statusbar": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
     "dependent_plugins": {}

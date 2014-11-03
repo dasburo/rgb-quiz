@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(../fonts/roboto-thin.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(roboto-light.woff) format('woff');
+}
+
 * {
   -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 }
@@ -30,7 +43,6 @@ body {
 .app {
   max-width: 640px;
   height: 100%;
-  /*border: 1px dotted black;*/
   margin: 0 auto;
   position: relative;
 }
@@ -57,7 +69,7 @@ body {
 
 #bottom-bar {
   width: 100%;
-  height: 25%;
+  max-height: 25%;
   position: absolute;
   bottom: 0;
   background-color: #9A9A9A;
@@ -90,4 +102,8 @@ body {
   text-align: right;
   font-size: 40px;
   padding-right: 20px;
+}
+
+#lives {
+  font-size: 34px;
 }
