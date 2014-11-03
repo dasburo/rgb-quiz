@@ -42,6 +42,8 @@
 		639BA4D6EC314814BC726EE9 /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A9D60F198794426A646A5BB /* CDVNotification.m */; };
 		E060A467B1184E83BC73DF0C /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FC30C22E6282404881F5514C /* CDVNotification.bundle */; };
 		0EFEF972FD3A4051A02FB3BE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B5AAB33937645DC8748A943 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		6DC6A33510D94E42A4855566 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D82B8246442410BB9EF0DF3 /* Game.m */; settings = {COMPILER_FLAGS = -fno-objc-arc; }; };
+		39C2C57FA9C64B47BDFD3DA6 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BAAF207D5A4CDAA1304876 /* GameKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +115,9 @@
 		5EFE812C7A894E4BB7F3DEE6 /* CDVNotification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVNotification.h"; path = "org.apache.cordova.dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		FC30C22E6282404881F5514C /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; };
 		5B5AAB33937645DC8748A943 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		6D82B8246442410BB9EF0DF3 /* Game.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Game.m"; path = "com.cranberrygame.phonegap.plugin.game/Game.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		EBAA27ED2C8B40A983CD956E /* Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Game.h"; path = "com.cranberrygame.phonegap.plugin.game/Game.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		B4BAAF207D5A4CDAA1304876 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "GameKit.framework"; path = "System/Library/Frameworks/GameKit.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +130,7 @@
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
 				0EFEF972FD3A4051A02FB3BE /* AudioToolbox.framework in Frameworks */,
+				39C2C57FA9C64B47BDFD3DA6 /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +225,7 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 				305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */,
 				5B5AAB33937645DC8748A943 /* AudioToolbox.framework */,
+				B4BAAF207D5A4CDAA1304876 /* GameKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -240,6 +247,8 @@
 				F981D82D26524F7A8D9B2E09 /* CDVStatusBar.h */,
 				8A9D60F198794426A646A5BB /* CDVNotification.m */,
 				5EFE812C7A894E4BB7F3DEE6 /* CDVNotification.h */,
+				6D82B8246442410BB9EF0DF3 /* Game.m */,
+				EBAA27ED2C8B40A983CD956E /* Game.h */,
 			);
 			name = Plugins;
 			path = RGBChallenge/Plugins;
@@ -438,6 +447,7 @@
 				4C5AC050DD23424AB2DECC44 /* CDVDevice.m in Sources */,
 				734D2789EE05428EBEA492FB /* CDVStatusBar.m in Sources */,
 				639BA4D6EC314814BC726EE9 /* CDVNotification.m in Sources */,
+				6DC6A33510D94E42A4855566 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

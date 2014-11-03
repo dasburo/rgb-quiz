@@ -1,0 +1,26 @@
+{
+    "version": "1.0.73",
+    "name": "com.cranberrygame.phonegap.plugin.game",
+    "cordova_name": "Phonegap game plugin",
+    "description": "show leaderboard and achievements (google play game and game center, SDK)",
+    "license": "MIT",
+    "repo": "https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.game",
+    "issue": "https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.game/issues",
+    "keywords": [
+        "phonegap",
+        " plugin",
+        " game",
+        " google play game",
+        " game center"
+    ],
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}

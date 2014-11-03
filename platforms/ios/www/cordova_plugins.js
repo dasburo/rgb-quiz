@@ -20,6 +20,13 @@ module.exports = [
         "merges": [
             "navigator.notification"
         ]
+    },
+    {
+        "file": "plugins/com.cranberrygame.phonegap.plugin.game/www/game.js",
+        "id": "com.cranberrygame.phonegap.plugin.game.game",
+        "clobbers": [
+            "window.game"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -27,7 +34,8 @@ module.exports.metadata =
 {
     "org.apache.cordova.device": "0.2.12",
     "org.apache.cordova.statusbar": "0.1.8",
-    "org.apache.cordova.dialogs": "0.2.10"
+    "org.apache.cordova.dialogs": "0.2.10",
+    "com.cranberrygame.phonegap.plugin.game": "1.0.73"
 }
 // BOTTOM OF METADATA
 });

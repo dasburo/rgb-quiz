@@ -18,11 +18,7 @@ var app = {
   paper: null,
   circles: [],
   currentColor: {
-    rgb: {
-      r: 0,
-      g: 0,
-      b: 0
-    },
+    rgb: {r: 0, g: 0, b: 0},
     hex: ''
   },
   numberOfCircles: 4,

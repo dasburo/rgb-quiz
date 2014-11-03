@@ -26,6 +26,9 @@
         },
         "org.apache.cordova.dialogs": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "com.cranberrygame.phonegap.plugin.game": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
     "dependent_plugins": {}
