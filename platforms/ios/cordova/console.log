@@ -501,3 +501,62 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-11-02 19:02:27.885 RGBChallenge[64018:7293546] Resetting plugins due to page load.
 2014-11-02 19:02:27.953 RGBChallenge[64018:7293546] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/50F3B769-11DB-4694-9CD6-EF20E32F9BED/RGBChallenge.app/www/index.html
 2014-11-02 19:02:36.208 RGBChallenge[64018:7293546] THREAD WARNING: ['Notification'] took '31.039307' ms. Plugin should use a background thread.
+2014-11-02 20:32:26.826 RGBChallenge[68500:7381757] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/F26714BB-83C8-4877-B02D-265694D5B2EE/Library/Cookies/Cookies.binarycookies
+2014-11-02 20:32:26.936 RGBChallenge[68500:7381757] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 20:32:26.936 RGBChallenge[68500:7381757] Multi-tasking -> Device: YES, App: YES
+2014-11-02 20:32:26.941 RGBChallenge[68500:7381757] Unlimited access to network resources
+2014-11-02 20:32:26.944 RGBChallenge[68500:7381757] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 20:32:27.202 RGBChallenge[68500:7381757] [CDVTimer][statusbar] 54.054022ms
+2014-11-02 20:32:27.202 RGBChallenge[68500:7381757] [CDVTimer][game] 0.042975ms
+2014-11-02 20:32:27.202 RGBChallenge[68500:7381757] [CDVTimer][TotalPluginStartup] 54.431975ms
+2014-11-02 20:32:27.265 RGBChallenge[68500:7381757] Resetting plugins due to page load.
+2014-11-02 20:32:27.368 RGBChallenge[68500:7381757] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/A116DD43-E84F-4B0A-A86D-A448367D344B/RGBChallenge.app/www/index.html
+2014-11-02 20:32:29.918 RGBChallenge[68500:7381757] THREAD WARNING: ['Notification'] took '39.450195' ms. Plugin should use a background thread.
+2014-11-02 20:32:33.785 RGBChallenge[68500:7381757] THREAD WARNING: ['Notification'] took '11.530762' ms. Plugin should use a background thread.
+2014-11-02 20:32:36.283 RGBChallenge[68500:7381757] -[__NSCFNumber length]: unrecognized selector sent to instance 0x7b890ae0
+2014-11-02 20:32:36.290 RGBChallenge[68500:7381757] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSCFNumber length]: unrecognized selector sent to instance 0x7b890ae0
+2014-11-02 20:34:15.803 RGBChallenge[68775:7383833] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/6343FB64-B5CA-4FD7-B692-51E2936CE128/Library/Cookies/Cookies.binarycookies
+2014-11-02 20:34:15.921 RGBChallenge[68775:7383833] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 20:34:15.922 RGBChallenge[68775:7383833] Multi-tasking -> Device: YES, App: YES
+2014-11-02 20:34:15.929 RGBChallenge[68775:7383833] Unlimited access to network resources
+2014-11-02 20:34:15.935 RGBChallenge[68775:7383833] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 20:34:16.309 RGBChallenge[68775:7383833] [CDVTimer][statusbar] 29.009998ms
+2014-11-02 20:34:16.309 RGBChallenge[68775:7383833] [CDVTimer][game] 0.057995ms
+2014-11-02 20:34:16.309 RGBChallenge[68775:7383833] [CDVTimer][TotalPluginStartup] 29.454947ms
+2014-11-02 20:34:16.401 RGBChallenge[68775:7383833] Resetting plugins due to page load.
+2014-11-02 20:34:16.471 RGBChallenge[68775:7383833] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/058C94CB-DFE0-4391-BA41-1E05670813E3/RGBChallenge.app/www/index.html
+2014-11-02 20:34:19.455 RGBChallenge[68775:7383833] THREAD WARNING: ['Notification'] took '20.636963' ms. Plugin should use a background thread.
+2014-11-02 20:34:24.177 RGBChallenge[68775:7383833] THREAD WARNING: ['Notification'] took '11.905273' ms. Plugin should use a background thread.
+2014-11-02 20:34:26.027 RGBChallenge[68775:7383833] THREAD WARNING: ['Notification'] took '10.273926' ms. Plugin should use a background thread.
+2014-11-02 20:34:28.339 RGBChallenge[68775:7383833] -[__NSCFNumber length]: unrecognized selector sent to instance 0x78958950
+2014-11-02 20:34:28.339 RGBChallenge[68775:7383833] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSCFNumber length]: unrecognized selector sent to instance 0x78958950
+2014-11-02 20:36:35.137 RGBChallenge[68992:7385823] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/E0E5ABEF-3153-4261-BBE0-2FFDD5154760/Library/Cookies/Cookies.binarycookies
+2014-11-02 20:36:35.274 RGBChallenge[68992:7385823] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 20:36:35.274 RGBChallenge[68992:7385823] Multi-tasking -> Device: YES, App: YES
+2014-11-02 20:36:35.284 RGBChallenge[68992:7385823] Unlimited access to network resources
+2014-11-02 20:36:35.287 RGBChallenge[68992:7385823] Restoring old webstorage backup. From: '/Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/E0E5ABEF-3153-4261-BBE0-2FFDD5154760/Library/WebKit/LocalStorage/file__0.localstorage' To: '/Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/E0E5ABEF-3153-4261-BBE0-2FFDD5154760/Library/Caches/file__0.localstorage'.
+2014-11-02 20:36:35.288 RGBChallenge[68992:7385823] Removing old webstorage backup: '/Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/E0E5ABEF-3153-4261-BBE0-2FFDD5154760/Library/WebKit/LocalStorage/file__0.localstorage'.
+2014-11-02 20:36:35.963 RGBChallenge[68992:7385823] [CDVTimer][statusbar] 59.778988ms
+2014-11-02 20:36:35.966 RGBChallenge[68992:7385823] [CDVTimer][game] 0.075996ms
+2014-11-02 20:36:35.966 RGBChallenge[68992:7385823] [CDVTimer][TotalPluginStartup] 62.744021ms
+2014-11-02 20:36:36.073 RGBChallenge[68992:7385823] Resetting plugins due to page load.
+2014-11-02 20:36:36.162 RGBChallenge[68992:7385823] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/42D1276C-714E-440D-BEB1-2165B5D9AF35/RGBChallenge.app/www/index.html
+2014-11-02 20:37:01.117 RGBChallenge[68992:7385823] THREAD WARNING: ['Notification'] took '27.779053' ms. Plugin should use a background thread.
+2014-11-02 20:37:13.763 RGBChallenge[68992:7385823] THREAD WARNING: ['Notification'] took '13.359863' ms. Plugin should use a background thread.
+2014-11-02 20:37:27.063 RGBChallenge[68992:7385823] THREAD WARNING: ['Notification'] took '12.137939' ms. Plugin should use a background thread.
+2014-11-02 20:37:29.029 RGBChallenge[68992:7385823] THREAD WARNING: ['Notification'] took '11.323975' ms. Plugin should use a background thread.
+2014-11-02 20:37:31.434 RGBChallenge[68992:7385823] THREAD WARNING: ['Notification'] took '11.753174' ms. Plugin should use a background thread.
+2014-11-02 20:37:46.584 RGBChallenge[68992:7385823] -[__NSCFNumber length]: unrecognized selector sent to instance 0x7b89f1d0
+2014-11-02 20:37:46.585 RGBChallenge[68992:7385823] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSCFNumber length]: unrecognized selector sent to instance 0x7b89f1d0

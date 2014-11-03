@@ -18,14 +18,12 @@ var app = {
   paper: null,
   circles: [],
   currentColor: {
-    rgb: {
-      r: 0,
-      g: 0,
-      b: 0
-    },
+    rgb: {r: 0, g: 0, b: 0},
     hex: ''
   },
   numberOfCircles: 4,
+  currentScore: 0,
+  livesRemaining: 3,
 
   // Bind Event Listeners
   //
@@ -62,6 +60,28 @@ var app = {
 
     this.createCircles(colorsArr);
     this.updateColorHeaders();
+  },
+
+  gameOver: function() {
+    // update high score
+    var _this = this;
+    var prevScore = window.localStorage['highscore'];
+    if (!prevScore || _this.currentScore > parseInt(prevScore)) {
+      window.localStorage['highscore'] = _this.currentScore;
+      navigator.notification 
+        ? navigator.notification.alert(_this.currentScore, function(){}, 'New High Score:') 
+        : alert('New High Score: ' + _this.currentScore);
+    } else {
+      // navigator.notification 
+      //   ? navigator.notification.alert('You lost.', function(){}, 'Sorry') 
+      //   : alert('Sorry, you lost.');
+    }
+
+    // reset game state
+    _this.currentScore = 0;
+    _this.livesRemaining = 3;
+    $('#score').text(_this.currentScore);
+    _this.newRound();
   },
 
   // colorsArr: array of hex color strings (should be 4)
@@ -109,18 +129,31 @@ var app = {
       circle.attr('stroke-width', strokeWidth);
       var _this = this;
       circle.click(function(evt) {
-        console.log(evt);
         var fillHex = evt.target.getAttribute('fill');
-        console.log(fillHex);
-        if (fillHex === _this.currentColor.hex) {
-          navigator.notification ? navigator.notification.alert('Nice work.', function(){}, 'Correct!') : alert('correct');
-          _this.newRound();
-        } else {
-          navigator.notification ? navigator.notification.alert('Try again.', function(){}, 'Incorrect') : alert('incorrect');
-        }
-      })
+        _this.checkMove(fillHex);
+      });
       this.circles.push(circle);
     }
+  },
+
+  checkMove: function(hex) {
+    if (hex === this.currentColor.hex) {
+      this.incrementScore();
+      navigator.notification ? navigator.notification.alert('Nice work.', function(){}, 'Correct!') : alert('correct');
+      this.newRound();
+    } else {
+      this.livesRemaining--;
+      if (this.livesRemaining <= 0) {
+        this.gameOver();
+      } else {
+        navigator.notification ? navigator.notification.alert('Try again.', function(){}, 'Incorrect') : alert('incorrect');
+      }
+    }
+  },
+
+  incrementScore: function() {
+    this.currentScore += 1;
+    $('#score').text(this.currentScore);
   },
 
   updateColorHeaders: function() {

@@ -36,6 +36,28 @@ module.exports = [
         ]
     },
     {
+        "file": "plugins/org.chromium.runtime/api/app/runtime.js",
+        "id": "org.chromium.runtime.app.runtime",
+        "clobbers": [
+            "chrome.app.runtime"
+        ]
+    },
+    {
+        "file": "plugins/org.chromium.runtime/api/runtime.js",
+        "id": "org.chromium.runtime.runtime",
+        "clobbers": [
+            "chrome.runtime"
+        ]
+    },
+    {
+        "file": "plugins/org.chromium.runtime/lib/CryptoJS/sha256.js",
+        "id": "org.chromium.runtime.CryptoJS-sha256"
+    },
+    {
+        "file": "plugins/org.chromium.runtime/lib/CryptoJS/enc-base64-min.js",
+        "id": "org.chromium.runtime.CryptoJS-enc-base64-min"
+    },
+    {
         "file": "plugins/org.chromium.common/events.js",
         "id": "org.chromium.common.events",
         "clobbers": [
@@ -63,6 +85,7 @@ module.exports.metadata =
     "org.apache.cordova.dialogs": "0.2.10",
     "com.cranberrygame.phonegap.plugin.game": "1.0.73",
     "org.chromium.storage": "1.0.3",
+    "org.chromium.runtime": "1.0.3",
     "org.chromium.common": "1.0.3"
 }
 // BOTTOM OF METADATA

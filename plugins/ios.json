@@ -74,6 +74,9 @@
         },
         "org.chromium.storage": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.chromium.runtime": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
     "dependent_plugins": {

@@ -22,6 +22,8 @@ var app = {
     hex: ''
   },
   numberOfCircles: 4,
+  currentScore: 0,
+  livesRemaining: 3,
 
   // Bind Event Listeners
   //
@@ -58,6 +60,29 @@ var app = {
 
     this.createCircles(colorsArr);
     this.updateColorHeaders();
+  },
+
+  gameOver: function() {
+    // update high score
+    var _this = this;
+    var prevScore = window.localStorage['highscore'];
+    if (!prevScore || _this.currentScore > parseInt(prevScore)) {
+      window.localStorage['highscore'] = _this.currentScore;
+      navigator.notification 
+        ? navigator.notification.alert(_this.currentScore, function(){}, 'New High Score:') 
+        : alert('New High Score: ' + _this.currentScore);
+    } else {
+      navigator.notification 
+        ? navigator.notification.alert('You lost. High Score: ' + prevScore, function(){}, 'Sorry') 
+        : alert('Sorry, you lost. High Score: ' + prevScore);
+    }
+
+    // reset game state
+    _this.currentScore = 0;
+    _this.updateScore(_this.currentScore);
+    _this.livesRemaining = 3;
+    _this.updateLives(_this.livesRemaining);
+    _this.newRound();
   },
 
   // colorsArr: array of hex color strings (should be 4)
@@ -105,18 +130,46 @@ var app = {
       circle.attr('stroke-width', strokeWidth);
       var _this = this;
       circle.click(function(evt) {
-        console.log(evt);
         var fillHex = evt.target.getAttribute('fill');
-        console.log(fillHex);
-        if (fillHex === _this.currentColor.hex) {
-          navigator.notification ? navigator.notification.alert('Nice work.', function(){}, 'Correct!') : alert('correct');
-          _this.newRound();
-        } else {
-          navigator.notification ? navigator.notification.alert('Try again.', function(){}, 'Incorrect') : alert('incorrect');
-        }
-      })
+        _this.checkMove(fillHex);
+      });
       this.circles.push(circle);
     }
+  },
+
+  checkMove: function(hex) {
+    if (hex === this.currentColor.hex) {
+      this.incrementScore();
+      var _this = this;
+      navigator.notification 
+        ? navigator.notification.alert('Nice work.', function(){_this.newRound();}, 'Correct!')
+        : alert('correct');
+    } else {
+      this.livesRemaining--;
+      this.updateLives(this.livesRemaining);
+      if (this.livesRemaining <= 0) {
+        this.gameOver();
+      } else {
+        // navigator.notification ? navigator.notification.alert('Try again.', function(){}, 'Incorrect') : alert('incorrect');
+      }
+    }
+  },
+
+  updateLives: function(numLives) {
+    var livesText = '';
+    for (var i = 0; i < numLives; i++) {
+      livesText += ' &hearts;';
+    }
+    $('#lives').html(livesText);
+  },
+
+  updateScore: function(score) {
+    $('#score').text(score);
+  },
+
+  incrementScore: function() {
+    this.currentScore += 1;
+    this.updateScore(this.currentScore);
   },
 
   updateColorHeaders: function() {
