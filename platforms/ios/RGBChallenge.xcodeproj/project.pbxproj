@@ -44,6 +44,7 @@
 		0EFEF972FD3A4051A02FB3BE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B5AAB33937645DC8748A943 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		6DC6A33510D94E42A4855566 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D82B8246442410BB9EF0DF3 /* Game.m */; settings = {COMPILER_FLAGS = -fno-objc-arc; }; };
 		39C2C57FA9C64B47BDFD3DA6 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BAAF207D5A4CDAA1304876 /* GameKit.framework */; };
+		C5B3A964292A46C19FDD59D1 /* ChromeStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D9026E127EF47BB98695C94 /* ChromeStorage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +119,8 @@
 		6D82B8246442410BB9EF0DF3 /* Game.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Game.m"; path = "com.cranberrygame.phonegap.plugin.game/Game.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		EBAA27ED2C8B40A983CD956E /* Game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Game.h"; path = "com.cranberrygame.phonegap.plugin.game/Game.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		B4BAAF207D5A4CDAA1304876 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "GameKit.framework"; path = "System/Library/Frameworks/GameKit.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		7D9026E127EF47BB98695C94 /* ChromeStorage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ChromeStorage.m"; path = "org.chromium.storage/ChromeStorage.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		E071E2EB48564743813C3106 /* ChromeStorage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ChromeStorage.h"; path = "org.chromium.storage/ChromeStorage.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,6 +252,8 @@
 				5EFE812C7A894E4BB7F3DEE6 /* CDVNotification.h */,
 				6D82B8246442410BB9EF0DF3 /* Game.m */,
 				EBAA27ED2C8B40A983CD956E /* Game.h */,
+				7D9026E127EF47BB98695C94 /* ChromeStorage.m */,
+				E071E2EB48564743813C3106 /* ChromeStorage.h */,
 			);
 			name = Plugins;
 			path = RGBChallenge/Plugins;
@@ -448,6 +453,7 @@
 				734D2789EE05428EBEA492FB /* CDVStatusBar.m in Sources */,
 				639BA4D6EC314814BC726EE9 /* CDVNotification.m in Sources */,
 				6DC6A33510D94E42A4855566 /* Game.m in Sources */,
+				C5B3A964292A46C19FDD59D1 /* ChromeStorage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

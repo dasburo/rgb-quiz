@@ -32,6 +32,12 @@
                             "xml": "<feature name=\"Game\"><param name=\"ios-package\" value=\"Game\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
                         }
+                    ],
+                    "/widget": [
+                        {
+                            "xml": "<feature name=\"ChromeStorage\"><param name=\"ios-package\" value=\"ChromeStorage\" /></feature>",
+                            "count": 1
+                        }
                     ]
                 }
             },
@@ -65,7 +71,14 @@
         },
         "com.cranberrygame.phonegap.plugin.game": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.chromium.storage": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "org.chromium.common": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
+        }
+    }
 }

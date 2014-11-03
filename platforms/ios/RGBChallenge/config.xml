@@ -46,4 +46,7 @@
         <param name="ios-package" value="Game" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="ChromeStorage">
+        <param name="ios-package" value="ChromeStorage" />
+    </feature>
 </widget>

@@ -34,6 +34,32 @@ module.exports = [
         "clobbers": [
             "window.game"
         ]
+    },
+    {
+        "file": "plugins/org.chromium.storage/storage.js",
+        "id": "org.chromium.storage.Storage",
+        "clobbers": [
+            "chrome.storage"
+        ]
+    },
+    {
+        "file": "plugins/org.chromium.common/events.js",
+        "id": "org.chromium.common.events",
+        "clobbers": [
+            "chrome.Event"
+        ]
+    },
+    {
+        "file": "plugins/org.chromium.common/errors.js",
+        "id": "org.chromium.common.errors"
+    },
+    {
+        "file": "plugins/org.chromium.common/stubs.js",
+        "id": "org.chromium.common.stubs"
+    },
+    {
+        "file": "plugins/org.chromium.common/helpers.js",
+        "id": "org.chromium.common.helpers"
     }
 ];
 module.exports.metadata = 
@@ -43,8 +69,10 @@ module.exports.metadata =
     "org.apache.cordova.statusbar": "0.1.8",
     "org.apache.cordova.dialogs": "0.2.10",
     "com.cranberrygame.phonegap.plugin.game": "1.0.73",
+    "org.chromium.storage": "1.0.3",
     "com.google.playservices": "19.0.0",
-    "android.support.v4": "1.0.0"
+    "android.support.v4": "1.0.0",
+    "org.chromium.common": "1.0.3"
 }
 // BOTTOM OF METADATA
 });

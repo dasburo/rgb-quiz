@@ -29,7 +29,14 @@
         },
         "com.cranberrygame.phonegap.plugin.game": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.chromium.storage": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "org.chromium.common": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
+        }
+    }
 }

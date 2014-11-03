@@ -24,6 +24,12 @@
                             "xml": "<feature name=\"Game\"><param name=\"android-package\" value=\"com.cranberrygame.phonegap.plugin.Game\" /></feature>",
                             "count": 1
                         }
+                    ],
+                    "/widget": [
+                        {
+                            "xml": "<feature name=\"ChromeStorage\"><param name=\"android-package\" value=\"org.chromium.ChromeStorage\" /></feature>",
+                            "count": 1
+                        }
                     ]
                 }
             },
@@ -76,6 +82,9 @@
         "com.cranberrygame.phonegap.plugin.game": {
             "APP_ID": "1086498561602",
             "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.chromium.storage": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     },
     "dependent_plugins": {
@@ -83,6 +92,9 @@
             "PACKAGE_NAME": "com.vibramedia.rgb"
         },
         "android.support.v4": {
+            "PACKAGE_NAME": "com.vibramedia.rgb"
+        },
+        "org.chromium.common": {
             "PACKAGE_NAME": "com.vibramedia.rgb"
         }
     }

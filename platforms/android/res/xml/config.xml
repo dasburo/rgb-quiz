@@ -26,4 +26,7 @@
     <feature name="Game">
         <param name="android-package" value="com.cranberrygame.phonegap.plugin.Game" />
     </feature>
+    <feature name="ChromeStorage">
+        <param name="android-package" value="org.chromium.ChromeStorage" />
+    </feature>
 </widget>
