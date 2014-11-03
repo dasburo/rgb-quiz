@@ -24,3 +24,366 @@ https://developer.apple.com/icloud/documentation/data-storage/
 
 2014-11-02 12:21:49.504 RGBChallenge[40374:3607718] Resetting plugins due to page load.
 2014-11-02 12:21:49.589 RGBChallenge[40374:3607718] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/A5639DE5-561C-4A11-8F9E-3306A8D1C65A/RGBChallenge.app/www/index.html
+2014-11-02 15:54:14.914 RGBChallenge[40374:5861731] Terminating since there is no system app.
+2014-11-02 17:53:11.160 RGBChallenge[57121:7132599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/4C468D6D-755D-45BF-B389-7DFAD41441B7/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:53:11.260 RGBChallenge[57121:7132599] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:53:11.260 RGBChallenge[57121:7132599] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:53:11.282 RGBChallenge[57121:7132599] Unlimited access to network resources
+2014-11-02 17:53:11.289 RGBChallenge[57121:7132599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:53:12.119 RGBChallenge[57121:7132599] Resetting plugins due to page load.
+2014-11-02 17:53:12.344 RGBChallenge[57121:7132599] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/10D9C2E1-4A51-4FB5-B7F5-3B8834E0ECC5/RGBChallenge.app/www/index.html
+2014-11-02 17:54:06.615 RGBChallenge[57247:7141584] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/2CB5EFA7-BBCA-414D-A730-A41D6D366B54/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:54:06.722 RGBChallenge[57247:7141584] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:54:06.722 RGBChallenge[57247:7141584] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:54:06.727 RGBChallenge[57247:7141584] Unlimited access to network resources
+2014-11-02 17:54:06.730 RGBChallenge[57247:7141584] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:54:07.235 RGBChallenge[57247:7141584] Resetting plugins due to page load.
+2014-11-02 17:54:07.341 RGBChallenge[57247:7141584] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/73AE362F-8648-486E-BD6A-BE01A49246D8/RGBChallenge.app/www/index.html
+2014-11-02 17:55:21.390 RGBChallenge[57387:7153537] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/BA4C73F7-6553-41EE-B2C1-971ED830DD3B/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:55:21.509 RGBChallenge[57387:7153537] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:55:21.510 RGBChallenge[57387:7153537] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:55:21.517 RGBChallenge[57387:7153537] Unlimited access to network resources
+2014-11-02 17:55:21.521 RGBChallenge[57387:7153537] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:55:21.856 RGBChallenge[57387:7153537] Resetting plugins due to page load.
+2014-11-02 17:55:21.929 RGBChallenge[57387:7153537] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/366920EB-0938-4560-A6AB-B9B83DA44BF1/RGBChallenge.app/www/index.html
+2014-11-02 17:56:19.950 RGBChallenge[57509:7162892] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/B525F8A3-1BF6-4060-979A-4F099760A6D8/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:56:20.048 RGBChallenge[57509:7162892] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:56:20.049 RGBChallenge[57509:7162892] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:56:20.055 RGBChallenge[57509:7162892] Unlimited access to network resources
+2014-11-02 17:56:20.058 RGBChallenge[57509:7162892] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:56:20.410 RGBChallenge[57509:7162892] Resetting plugins due to page load.
+2014-11-02 17:56:20.502 RGBChallenge[57509:7162892] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/1479C9ED-1CCB-4D52-89C9-921B9B3F3A88/RGBChallenge.app/www/index.html
+2014-11-02 17:57:28.354 RGBChallenge[57639:7173772] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/20DC0B3A-1FFD-419B-8C53-E90846519E7C/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:57:28.462 RGBChallenge[57639:7173772] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:57:28.462 RGBChallenge[57639:7173772] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:57:28.471 RGBChallenge[57639:7173772] Unlimited access to network resources
+2014-11-02 17:57:28.475 RGBChallenge[57639:7173772] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:57:28.882 RGBChallenge[57639:7173772] Resetting plugins due to page load.
+2014-11-02 17:57:28.959 RGBChallenge[57639:7173772] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/BB9A10DA-3930-480A-B187-18354DFBD325/RGBChallenge.app/www/index.html
+2014-11-02 17:58:33.900 RGBChallenge[57819:7184206] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/973D95C6-E524-414F-8164-AEDF017AFF6D/Library/Cookies/Cookies.binarycookies
+2014-11-02 17:58:34.005 RGBChallenge[57819:7184206] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 17:58:34.006 RGBChallenge[57819:7184206] Multi-tasking -> Device: YES, App: YES
+2014-11-02 17:58:34.017 RGBChallenge[57819:7184206] Unlimited access to network resources
+2014-11-02 17:58:34.044 RGBChallenge[57819:7184206] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 17:58:34.465 RGBChallenge[57819:7184206] Resetting plugins due to page load.
+2014-11-02 17:58:34.558 RGBChallenge[57819:7184206] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/384B287D-6F47-4652-8642-20A92D49085A/RGBChallenge.app/www/index.html
+2014-11-02 18:02:21.455 RGBChallenge[58099:7222955] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/A15F338A-6860-47C8-A919-1E94E790CE76/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:02:21.589 RGBChallenge[58099:7222955] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:02:21.589 RGBChallenge[58099:7222955] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:02:21.596 RGBChallenge[58099:7222955] Unlimited access to network resources
+2014-11-02 18:02:21.600 RGBChallenge[58099:7222955] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:02:21.961 RGBChallenge[58099:7222955] Resetting plugins due to page load.
+2014-11-02 18:02:22.071 RGBChallenge[58099:7222955] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/57F4C533-3B2E-4E30-9CAB-4CAB41928B4A/RGBChallenge.app/www/index.html
+2014-11-02 18:03:53.603 RGBChallenge[58300:7242455] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/96F02353-45CD-4223-B357-FD578C21A296/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:03:53.714 RGBChallenge[58300:7242455] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:03:53.714 RGBChallenge[58300:7242455] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:03:53.722 RGBChallenge[58300:7242455] Unlimited access to network resources
+2014-11-02 18:03:53.725 RGBChallenge[58300:7242455] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:03:54.264 RGBChallenge[58300:7242455] Resetting plugins due to page load.
+2014-11-02 18:03:54.401 RGBChallenge[58300:7242455] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/313EB315-2D9E-4DAA-A840-B4C860765A8A/RGBChallenge.app/www/index.html
+2014-11-02 18:05:00.252 RGBChallenge[58485:7245494] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/F69DA8A5-3F94-45CE-AD74-EA36F6476586/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:05:00.360 RGBChallenge[58485:7245494] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:05:00.361 RGBChallenge[58485:7245494] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:05:00.370 RGBChallenge[58485:7245494] Unlimited access to network resources
+2014-11-02 18:05:00.377 RGBChallenge[58485:7245494] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:05:00.748 RGBChallenge[58485:7245494] Resetting plugins due to page load.
+2014-11-02 18:05:00.893 RGBChallenge[58485:7245494] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/54FE0480-0205-4436-A294-78A22C910D23/RGBChallenge.app/www/index.html
+2014-11-02 18:07:21.936 RGBChallenge[58663:7247137] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/560911DD-E105-44FE-AF27-A933ECF9B7CC/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:07:22.060 RGBChallenge[58663:7247137] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:07:22.060 RGBChallenge[58663:7247137] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:07:22.067 RGBChallenge[58663:7247137] Unlimited access to network resources
+2014-11-02 18:07:22.075 RGBChallenge[58663:7247137] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:07:22.519 RGBChallenge[58663:7247137] Resetting plugins due to page load.
+2014-11-02 18:07:22.625 RGBChallenge[58663:7247137] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/99037A89-B0E4-4C1E-BFA8-86DA16266B87/RGBChallenge.app/www/index.html
+2014-11-02 18:10:13.683 RGBChallenge[58868:7249380] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/EB10A18A-363F-4488-BA94-A0773E1B7030/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:10:13.775 RGBChallenge[58868:7249380] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:10:13.775 RGBChallenge[58868:7249380] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:10:13.782 RGBChallenge[58868:7249380] Unlimited access to network resources
+2014-11-02 18:10:13.785 RGBChallenge[58868:7249380] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:10:14.983 RGBChallenge[58868:7249380] Resetting plugins due to page load.
+2014-11-02 18:10:15.140 RGBChallenge[58868:7249380] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/E60B907D-E908-46B1-8C71-FAA56E8BAD11/RGBChallenge.app/www/index.html
+2014-11-02 18:10:58.371 RGBChallenge[58982:7250146] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/9E0051F8-210E-4565-BCCB-CF09F507F933/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:10:58.493 RGBChallenge[58982:7250146] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:10:58.494 RGBChallenge[58982:7250146] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:10:58.503 RGBChallenge[58982:7250146] Unlimited access to network resources
+2014-11-02 18:10:58.506 RGBChallenge[58982:7250146] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:10:59.012 RGBChallenge[58982:7250146] Resetting plugins due to page load.
+2014-11-02 18:10:59.144 RGBChallenge[58982:7250146] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/042BFAE5-F4CB-4895-933A-351797F35931/RGBChallenge.app/www/index.html
+2014-11-02 18:10:59.225 RGBChallenge[58982:7250146] THREAD WARNING: ['Device'] took '11.784912' ms. Plugin should use a background thread.
+2014-11-02 18:13:56.458 RGBChallenge[59526:7254217] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/3CB77451-D20B-4586-9CFB-6024322CACFD/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:13:56.671 RGBChallenge[59526:7254217] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:13:56.673 RGBChallenge[59526:7254217] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:13:56.681 RGBChallenge[59526:7254217] Unlimited access to network resources
+2014-11-02 18:13:56.686 RGBChallenge[59526:7254217] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:13:57.039 RGBChallenge[59526:7254217] [CDVTimer][statusbar] 19.989967ms
+2014-11-02 18:13:57.039 RGBChallenge[59526:7254217] [CDVTimer][TotalPluginStartup] 20.152032ms
+2014-11-02 18:13:57.127 RGBChallenge[59526:7254217] Resetting plugins due to page load.
+2014-11-02 18:13:57.211 RGBChallenge[59526:7254217] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/8BD60A7A-546A-4B42-82F0-B2FC641C9774/RGBChallenge.app/www/index.html
+2014-11-02 18:13:57.375 RGBChallenge[59526:7254217] THREAD WARNING: ['StatusBar'] took '14.454102' ms. Plugin should use a background thread.
+2014-11-02 18:14:58.026 RGBChallenge[59658:7255228] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/4BDF1D9C-39BD-4213-92DD-599C16FC0436/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:14:58.138 RGBChallenge[59658:7255228] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:14:58.138 RGBChallenge[59658:7255228] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:14:58.147 RGBChallenge[59658:7255228] Unlimited access to network resources
+2014-11-02 18:14:58.152 RGBChallenge[59658:7255228] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:14:58.564 RGBChallenge[59658:7255228] [CDVTimer][statusbar] 25.906026ms
+2014-11-02 18:14:58.565 RGBChallenge[59658:7255228] [CDVTimer][TotalPluginStartup] 26.265025ms
+2014-11-02 18:14:58.660 RGBChallenge[59658:7255228] Resetting plugins due to page load.
+2014-11-02 18:14:58.736 RGBChallenge[59658:7255228] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/BA734467-3E29-40B6-9BF5-3B03D6B5A50A/RGBChallenge.app/www/index.html
+2014-11-02 18:14:58.872 RGBChallenge[59658:7255228] THREAD WARNING: ['StatusBar'] took '33.283936' ms. Plugin should use a background thread.
+2014-11-02 18:18:08.568 RGBChallenge[59874:7257625] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/21E57D5B-81C1-4140-99E8-A322C503BB8F/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:18:08.699 RGBChallenge[59874:7257625] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:18:08.700 RGBChallenge[59874:7257625] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:18:08.707 RGBChallenge[59874:7257625] Unlimited access to network resources
+2014-11-02 18:18:08.710 RGBChallenge[59874:7257625] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:18:08.978 RGBChallenge[59874:7257625] [CDVTimer][statusbar] 20.787001ms
+2014-11-02 18:18:08.978 RGBChallenge[59874:7257625] [CDVTimer][TotalPluginStartup] 20.942032ms
+2014-11-02 18:18:09.058 RGBChallenge[59874:7257625] Resetting plugins due to page load.
+2014-11-02 18:18:09.126 RGBChallenge[59874:7257625] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/FAE47AB1-4632-4D1A-9506-1FD809AD1706/RGBChallenge.app/www/index.html
+2014-11-02 18:18:09.263 RGBChallenge[59874:7257625] THREAD WARNING: ['StatusBar'] took '33.327148' ms. Plugin should use a background thread.
+2014-11-02 18:18:33.406 RGBChallenge[59974:7258071] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/5DF4756B-137B-4716-983F-60093ABB18E4/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:18:33.565 RGBChallenge[59974:7258071] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:18:33.566 RGBChallenge[59974:7258071] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:18:33.574 RGBChallenge[59974:7258071] Unlimited access to network resources
+2014-11-02 18:18:33.578 RGBChallenge[59974:7258071] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:18:33.943 RGBChallenge[59974:7258071] [CDVTimer][statusbar] 22.020996ms
+2014-11-02 18:18:33.943 RGBChallenge[59974:7258071] [CDVTimer][TotalPluginStartup] 22.199988ms
+2014-11-02 18:18:34.047 RGBChallenge[59974:7258071] Resetting plugins due to page load.
+2014-11-02 18:18:34.141 RGBChallenge[59974:7258071] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/B43E1919-03A4-4333-A45D-F5773B1AE906/RGBChallenge.app/www/index.html
+2014-11-02 18:18:34.253 RGBChallenge[59974:7258071] THREAD WARNING: ['StatusBar'] took '20.366943' ms. Plugin should use a background thread.
+2014-11-02 18:18:59.763 RGBChallenge[60079:7258708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/907EBEC4-6652-4F58-A45C-A3675E95920F/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:18:59.872 RGBChallenge[60079:7258708] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:18:59.872 RGBChallenge[60079:7258708] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:18:59.878 RGBChallenge[60079:7258708] Unlimited access to network resources
+2014-11-02 18:18:59.884 RGBChallenge[60079:7258708] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:19:00.238 RGBChallenge[60079:7258708] [CDVTimer][statusbar] 24.474025ms
+2014-11-02 18:19:00.239 RGBChallenge[60079:7258708] [CDVTimer][TotalPluginStartup] 24.672031ms
+2014-11-02 18:19:00.343 RGBChallenge[60079:7258708] Resetting plugins due to page load.
+2014-11-02 18:19:00.438 RGBChallenge[60079:7258708] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/DEA8890A-0914-48DC-AD12-C61DE8BE53F4/RGBChallenge.app/www/index.html
+2014-11-02 18:19:00.562 RGBChallenge[60079:7258708] THREAD WARNING: ['StatusBar'] took '22.035889' ms. Plugin should use a background thread.
+2014-11-02 18:21:07.570 RGBChallenge[60251:7260284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/FA305A96-8715-47CE-B467-97E3B156AEE1/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:21:07.697 RGBChallenge[60251:7260284] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:21:07.698 RGBChallenge[60251:7260284] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:21:07.706 RGBChallenge[60251:7260284] Unlimited access to network resources
+2014-11-02 18:21:07.710 RGBChallenge[60251:7260284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:21:07.992 RGBChallenge[60251:7260284] [CDVTimer][statusbar] 18.852055ms
+2014-11-02 18:21:07.992 RGBChallenge[60251:7260284] [CDVTimer][TotalPluginStartup] 19.042015ms
+2014-11-02 18:21:08.071 RGBChallenge[60251:7260284] Resetting plugins due to page load.
+2014-11-02 18:21:08.140 RGBChallenge[60251:7260284] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/E3FEEE38-18F2-46A6-A44A-D0BBA445E2CD/RGBChallenge.app/www/index.html
+2014-11-02 18:21:08.248 RGBChallenge[60251:7260284] THREAD WARNING: ['StatusBar'] took '18.187988' ms. Plugin should use a background thread.
+2014-11-02 18:22:12.781 RGBChallenge[60417:7261487] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/B7EE4DC4-5A16-4F87-BA7B-FAF0EA2273CE/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:22:12.902 RGBChallenge[60417:7261487] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:22:12.902 RGBChallenge[60417:7261487] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:22:12.911 RGBChallenge[60417:7261487] Unlimited access to network resources
+2014-11-02 18:22:12.913 RGBChallenge[60417:7261487] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:22:13.256 RGBChallenge[60417:7261487] [CDVTimer][statusbar] 21.408021ms
+2014-11-02 18:22:13.257 RGBChallenge[60417:7261487] [CDVTimer][TotalPluginStartup] 21.668017ms
+2014-11-02 18:22:13.359 RGBChallenge[60417:7261487] Resetting plugins due to page load.
+2014-11-02 18:22:13.489 RGBChallenge[60417:7261487] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/AF94F7F8-F9B5-4D6C-93F9-48AA6E8403CB/RGBChallenge.app/www/index.html
+2014-11-02 18:22:13.607 RGBChallenge[60417:7261487] THREAD WARNING: ['StatusBar'] took '11.561279' ms. Plugin should use a background thread.
+2014-11-02 18:22:24.069 RGBChallenge[60518:7261898] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/36BBE8E1-A87F-4D46-8072-652AF26739AF/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:22:24.174 RGBChallenge[60518:7261898] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:22:24.175 RGBChallenge[60518:7261898] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:22:24.181 RGBChallenge[60518:7261898] Unlimited access to network resources
+2014-11-02 18:22:24.187 RGBChallenge[60518:7261898] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:22:24.473 RGBChallenge[60518:7261898] [CDVTimer][statusbar] 22.843003ms
+2014-11-02 18:22:24.473 RGBChallenge[60518:7261898] [CDVTimer][TotalPluginStartup] 23.158967ms
+2014-11-02 18:22:24.574 RGBChallenge[60518:7261898] Resetting plugins due to page load.
+2014-11-02 18:22:24.660 RGBChallenge[60518:7261898] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/54D4D739-D578-49F7-87CA-15E174D9C8BC/RGBChallenge.app/www/index.html
+2014-11-02 18:22:24.751 RGBChallenge[60518:7261898] THREAD WARNING: ['StatusBar'] took '15.090820' ms. Plugin should use a background thread.
+2014-11-02 18:22:33.094 RGBChallenge[60613:7262235] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/9D95CA95-52C3-4F43-A40E-0234CDB7B250/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:22:33.192 RGBChallenge[60613:7262235] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:22:33.193 RGBChallenge[60613:7262235] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:22:33.201 RGBChallenge[60613:7262235] Unlimited access to network resources
+2014-11-02 18:22:33.204 RGBChallenge[60613:7262235] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:22:33.544 RGBChallenge[60613:7262235] [CDVTimer][statusbar] 18.949032ms
+2014-11-02 18:22:33.544 RGBChallenge[60613:7262235] [CDVTimer][TotalPluginStartup] 19.424975ms
+2014-11-02 18:22:33.702 RGBChallenge[60613:7262235] Resetting plugins due to page load.
+2014-11-02 18:22:33.827 RGBChallenge[60613:7262235] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/9A206ACA-323A-4DE8-8E8B-BD9518819429/RGBChallenge.app/www/index.html
+2014-11-02 18:23:23.793 RGBChallenge[60739:7263105] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/A4ED3BE3-0225-4594-8AD3-005F593B011C/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:23:23.911 RGBChallenge[60739:7263105] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:23:23.911 RGBChallenge[60739:7263105] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:23:23.918 RGBChallenge[60739:7263105] Unlimited access to network resources
+2014-11-02 18:23:23.921 RGBChallenge[60739:7263105] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:23:24.206 RGBChallenge[60739:7263105] [CDVTimer][statusbar] 52.923977ms
+2014-11-02 18:23:24.207 RGBChallenge[60739:7263105] [CDVTimer][TotalPluginStartup] 53.128958ms
+2014-11-02 18:23:24.312 RGBChallenge[60739:7263105] Resetting plugins due to page load.
+2014-11-02 18:23:24.443 RGBChallenge[60739:7263105] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/DBED927B-6686-4C9E-9D74-D5C14E41A78C/RGBChallenge.app/www/index.html
+2014-11-02 18:23:24.555 RGBChallenge[60739:7263105] THREAD WARNING: ['StatusBar'] took '14.316162' ms. Plugin should use a background thread.
+2014-11-02 18:23:48.413 RGBChallenge[60852:7263629] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/55A7DCDD-285A-4BCF-93C3-C1384EC351DC/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:23:48.523 RGBChallenge[60852:7263629] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:23:48.523 RGBChallenge[60852:7263629] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:23:48.529 RGBChallenge[60852:7263629] Unlimited access to network resources
+2014-11-02 18:23:48.532 RGBChallenge[60852:7263629] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:23:48.900 RGBChallenge[60852:7263629] [CDVTimer][statusbar] 25.466025ms
+2014-11-02 18:23:48.900 RGBChallenge[60852:7263629] [CDVTimer][TotalPluginStartup] 25.759041ms
+2014-11-02 18:23:49.012 RGBChallenge[60852:7263629] Resetting plugins due to page load.
+2014-11-02 18:23:49.132 RGBChallenge[60852:7263629] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/0ABFEAE8-7104-42E7-A82F-3560E6203C56/RGBChallenge.app/www/index.html
+2014-11-02 18:23:49.237 RGBChallenge[60852:7263629] THREAD WARNING: ['StatusBar'] took '10.846191' ms. Plugin should use a background thread.
+2014-11-02 18:24:10.562 RGBChallenge[60953:7264226] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/FC555716-4623-4943-B794-6F99C9EA9BB5/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:24:10.707 RGBChallenge[60953:7264226] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:24:10.707 RGBChallenge[60953:7264226] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:24:10.714 RGBChallenge[60953:7264226] Unlimited access to network resources
+2014-11-02 18:24:10.716 RGBChallenge[60953:7264226] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:24:11.007 RGBChallenge[60953:7264226] [CDVTimer][statusbar] 19.917965ms
+2014-11-02 18:24:11.008 RGBChallenge[60953:7264226] [CDVTimer][TotalPluginStartup] 20.170987ms
+2014-11-02 18:24:11.099 RGBChallenge[60953:7264226] Resetting plugins due to page load.
+2014-11-02 18:24:11.277 RGBChallenge[60953:7264226] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/787A8C73-0E37-47B0-892D-4339D9065713/RGBChallenge.app/www/index.html
+2014-11-02 18:24:39.158 RGBChallenge[61058:7264723] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Data/Application/52D0379C-6757-4D4C-B48C-50B5C488395C/Library/Cookies/Cookies.binarycookies
+2014-11-02 18:24:39.284 RGBChallenge[61058:7264723] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-02 18:24:39.284 RGBChallenge[61058:7264723] Multi-tasking -> Device: YES, App: YES
+2014-11-02 18:24:39.290 RGBChallenge[61058:7264723] Unlimited access to network resources
+2014-11-02 18:24:39.295 RGBChallenge[61058:7264723] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-02 18:24:39.640 RGBChallenge[61058:7264723] [CDVTimer][statusbar] 19.613981ms
+2014-11-02 18:24:39.640 RGBChallenge[61058:7264723] [CDVTimer][TotalPluginStartup] 19.780993ms
+2014-11-02 18:24:39.739 RGBChallenge[61058:7264723] Resetting plugins due to page load.
+2014-11-02 18:24:39.815 RGBChallenge[61058:7264723] Finished load of: file:///Users/kyle/Library/Developer/CoreSimulator/Devices/A6EA5549-08B7-4B2A-878B-C41B386BB3EB/data/Containers/Bundle/Application/FABEC06E-A005-409B-A20E-BB03F876BF41/RGBChallenge.app/www/index.html
